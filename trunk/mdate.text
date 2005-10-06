@@ -1,7 +1,7 @@
   Mdate
   Sean Dwyer <ewe2@users.sourceforge.net>
-  $Revision: 1.4 $ $Date: 2004-08-14 02:28:57 +1000 (Sat, 14
-  Aug 2004) $
+  $Revision: 1.4 $ $Date: 2004-12-19 11:10:22 +1100 (Sun, 19
+  Dec 2004) $
 
   Mdate is an easy to use command-line utility for conversion between
   Gregorian calendar  dates and Mayan calendar dates.
@@ -45,14 +45,12 @@
 
   [1m1.1.  Disclaimer & License[0m
 
-  This document is distributed in the hope that it will be useful, but
-  WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  This document was formerly licensed under the GNU FDL 1.1. It now
+  falls under the general GPL license of the accompanying code. Previous
+  versions of this documentation may, if wished, also fall under GPL on
+  contact with the author.
 
-  Copyright (c) 2002-2004 by Sean Dwyer. This material may be
-  distributed only subject to the terms and conditions set forth in the
-  GNU Free Documentation License, v1.1 or later (the latest version is
-  presently available at http://www.gnu.org/copyleft/fdl.html).
+  Copyright (c) 2002-2004 by Sean Dwyer.
 
   Please freely copy and distribute (sell or give away) this document in
   any format, providing you adhere to the terms of the above License.
@@ -62,8 +60,10 @@
 
   [1m1.2.  History[0m
 
-  The current version of Mdate is 1.5.2, written by Sean Dwyer with help
+  The current version of Mdate is 1.5.3, written by Sean Dwyer with help
   from many others over the years.
+
+
   The first public version of Mdate was 0.5.0, written in late 1998, and
   was also ported to MS-DOS. Craig Robbins contributed to versions 0.5.1
   to 1.0.0beta1. Version 1.0.0beta1 (1999) was the first GPL version of

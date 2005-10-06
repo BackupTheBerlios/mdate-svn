@@ -1,3 +1,9 @@
+mdate (1.5.3) unstable; urgency=low
+
+  * New upstream version, relicensed documentation for Debian. 
+
+ -- ewe2 <ewe2@users.sourceforge.net>  Fri,  7 Oct 2005 00:11:55 +1000
+
 mdate (1.5.2-1) unstable; urgency=low
 
   * New upstream version, changed VC to subversion.

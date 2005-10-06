@@ -39,7 +39,8 @@ VERSION=1.5.3
 
 SVNVERSION = 1-5-3
 # for future use on the net
-REPOS=http://services.pengsheep.org/svn/mdate
+#REPOS=http://services.pengsheep.org/svn/mdate
+REPOS=svn+ssh://svn.berlios.de/svnroot/repos/mdate
 
 ## DEFINE YOUR PREFERRED DEFAULT LANGUAGE HERE with a 1!
 DEF_EN=
