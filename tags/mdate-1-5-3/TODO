@@ -1,4 +1,0 @@
-For 1.5.3:
-
-rewrite main.cc so it becomes merely the command-line version to accommodate
-event-driven interfaces.
