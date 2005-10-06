@@ -267,7 +267,7 @@ installdoc: createdoc installman
 	gzip $(DOCDIR)/mdate.dvi $(DOCDIR)/mdate.ps $(DOCDIR)/mdate.sgml; \
 	install -m644 mdate.text $(DOCDIR);	gzip $(DOCDIR)/mdate.text ; \
 	install -m644  README NEWS ChangeLog GPL API $(DOCDIR); \
-	install -m644  FDL AUTHORS Translators $(DOCDIR); \
+	install -m644  AUTHORS Translators $(DOCDIR); \
 	[ -d $(HTMLDIR) ] || mkdir -p $(HTMLDIR); \
 	install -m644  *.html $(HTMLDIR)
 	cp $(HTMLDIR)/mdate.html $(HTMLDIR)/index.html

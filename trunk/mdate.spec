@@ -51,7 +51,6 @@ rm -rf $RPM_BUILD_ROOT
 %{docdir}/ChangeLog
 %{docdir}/AUTHORS
 %{docdir}/Translators
-%{docdir}/FDL
 %{docdir}/API
 %{docdir}/GPL
 %{docdir}/NEWS

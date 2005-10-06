@@ -27,14 +27,11 @@ users.
 
 <sect1>Disclaimer &amp; License
 <p>
-This document is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+This document was formerly licensed under the GNU FDL 1.1. It now falls under
+the general GPL license of the accompanying code. Previous versions of this
+documentation may, if wished, also fall under GPL on contact with the author.
 
-Copyright (c) 2002-2004 by Sean Dwyer. This material may be distributed only
-subject to the terms and conditions set forth in the GNU Free Documentation
-License, v1.1 or later (the latest version is presently available at
-http://www.gnu.org/copyleft/fdl.html).
+Copyright (c) 2002-2004 by Sean Dwyer.
 
 Please freely copy and distribute (sell or give away) this document in any
 format, providing you adhere to the terms of the above License.  It's

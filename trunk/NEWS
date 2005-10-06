@@ -1,3 +1,8 @@
+1.5.3:
+
+Relicensed the documentation to normal GPL to comply with Debian documentation
+requirements. No other changes.
+
 1.5.2:
 
 Trying out subversion as an alternate VC system to encourage multiple
