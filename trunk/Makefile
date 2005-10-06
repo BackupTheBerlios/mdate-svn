@@ -35,9 +35,9 @@
 srcdir = .
 
 PACKAGE=Mdate
-VERSION=1.5.2
+VERSION=1.5.3
 
-SVNVERSION = 1-5-2
+SVNVERSION = 1-5-3
 # for future use on the net
 REPOS=http://services.pengsheep.org/svn/mdate
 
